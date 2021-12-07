@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+}
+p{
+    color:lavender;
+    font-family: Sprat-ExtendedMedium;
+    text-align: center;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    
+}
+@font-face{font-family:Sprat; src: url('font_html/media/Sprat-ExtendedMedium.otf');}
+audio{
+    color:lavender;
+}
+#line1{
+color:lavender;
+font-family: Sprat-ExtendedThin;
+text-align: center;
+margin-left: 2cm;
+margin-right: 2cm;
+line-height: 2cm;
+transition-duration: 1s;
+
+}
+#line2{
+    color:lavender;
+    font-family: Sprat-ExtendedThin;
+    text-align: center;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    line-height: 2cm;
+    transition-duration: 1s;
+    
+    }
+ #line3{
+        color:lavender;
+        font-family: Sprat-ExtendedThin;
+        text-align: center;
+        margin-left: 2cm;
+        margin-right: 2cm;
+        line-height: 2cm;
+        transition-duration: 1s;
+        
+        }
+      #line4{
+            color:lavender;
+            font-family: Sprat-ExtendedThin;
+            text-align: center;
+            margin-left: 2cm;
+            margin-right: 2cm;
+            line-height: 2cm;
+            transition-duration: 1s;
+            
+            }
+            #line5{
+                color:lavender;
+                font-family: Sprat-ExtendedThin;
+                text-align: center;
+                margin-left: 2cm;
+                margin-right: 2cm;
+                line-height: 2cm;
+                transition-duration: 1s;
+                
+                }
+              #line6{
+                    color:lavender;
+                    font-family: Sprat-ExtendedThin;
+                    text-align: center;
+                    margin-left: 2cm;
+                    margin-right: 2cm;
+                    line-height: 2cm;
+                    transition-duration: 1s;
+                    }
+                    #line7{
+                        color:lavender;
+                        font-family: Sprat-ExtendedThin;
+                        text-align: center;
+                        margin-left: 2cm;
+                        margin-right: 2cm;
+                        line-height: 2cm;
+                        transition-duration: 1s;
+                        
+                        }
+                        #line8{
+                            color:lavender;
+                            font-family: Sprat-ExtendedThin;
+                            text-align: center;
+                            margin-left: 2cm;
+                            margin-right: 2cm;
+                            line-height: 2cm;
+                            transition-duration: 1s;
+                            }
+                            #line9{
+                                color:lavender;
+                                font-family: Sprat-ExtendedThin;
+                                text-align: center;
+                                margin-left: 2cm;
+                                margin-right: 2cm;
+                                line-height: 2cm;
+                                transition-duration: 1s;
+                                
+                                }
+@font-face { font-family:Sprat ; src: url('font_html/media/Sprat-ExtendedThin.otf'); } 
+h2{
+color:lavender;
+font-family: Sprat-ExtendedMedium;
+text-align: center;
+}
+
+ #line1:hover{color:rgb(163, 56, 236);}
+ #line2:hover{color:rgb(150, 53, 219);}
+ #line3:hover{color:rgb(128, 45, 192);}
+ #line4:hover{color:rgb(117, 46, 175);}
+ #line5:hover{color:rgb(99, 37, 153);}
+ #line6:hover{color:rgb(89, 37, 134);}
+ #line7:hover{color:rgb(97, 39, 147);}
+ #line8:hover{color:rgb(95, 39, 133);}
+ #line9:hover{color:rgb(84, 36, 116);}
+ 
